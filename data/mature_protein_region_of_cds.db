@@ -1,0 +1,27 @@
+1	leader protein	266	805	nsp1%3B produced by both pp1a and pp1ab	2	Prot	YP_009725297.1
+2	nsp2	806	2719	produced by both pp1a and pp1ab	2	Prot	YP_009725298.1
+3	nsp3	2720	8554	former nsp1%3B conserved domains are: N-terminal acidic (Ac)%2C predicted phosphoesterase%2C papain-like proteinase%2C Y-domain%2C transmembrane domain 1 (TM1)%2C adenosine diphosphate-ribose 1''-phosphatase (ADRP)%3B produced by both pp1a and pp1ab	2	Prot	YP_009725299.1
+4	nsp4	8555	10054	nsp4B_TM%3B contains transmembrane domain 2 (TM2)%3B produced by both pp1a and pp1ab	2	Prot	YP_009725300.1
+5	3C-like proteinase	10055	10972	nsp5A_3CLpro and nsp5B_3CLpro%3B main proteinase (Mpro)%3B mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al.%2C 2003)%3B produced by both pp1a and pp1ab	2	Prot	YP_009725301.1
+6	nsp6	10973	11842	nsp6_TM%3B putative transmembrane domain%3B produced by both pp1a and pp1ab	2	Prot	YP_009725302.1
+7	nsp7	11843	12091	produced by both pp1a and pp1ab	2	Prot	YP_009725303.1
+8	nsp8	12092	12685	produced by both pp1a and pp1ab	2	Prot	YP_009725304.1
+9	nsp9	12686	13024	ssRNA-binding protein%3B produced by both pp1a and pp1ab	2	Prot	YP_009725305.1
+10	nsp10	13025	13441	nsp10_CysHis%3B formerly known as growth-factor-like protein (GFL)%3B produced by both pp1a and pp1ab	2	Prot	YP_009725306.1
+11	RNA-dependent RNA polymerase	13442	13468	nsp12%3B NiRAN and RdRp%3B produced by pp1ab only	2	Prot	YP_009725307.1
+12	RNA-dependent RNA polymerase	13468	16236	nsp12%3B NiRAN and RdRp%3B produced by pp1ab only	2	Prot	YP_009725307.1
+13	helicase	16237	18039	nsp13_ZBD%2C nsp13_TB%2C and nsp_HEL1core%3B zinc-binding domain (ZD)%2C NTPase/helicase domain (HEL)%2C RNA 5'-triphosphatase%3B produced by pp1ab only	2	Prot	YP_009725308.1
+14	3'-to-5' exonuclease	18040	19620	nsp14A2_ExoN and nsp14B_NMT%3B produced by pp1ab only	2	Prot	YP_009725309.1
+15	endoRNAse	19621	20658	nsp15-A1 and nsp15B-NendoU%3B produced by pp1ab only	2	Prot	YP_009725310.1
+16	2'-O-ribose methyltransferase	20659	21552	nsp16_OMT%3B 2'-o-MT%3B produced by pp1ab only	2	Prot	YP_009725311.1
+17	leader protein	266	805	nsp1%3B produced by both pp1a and pp1ab	3	Prot	YP_009742608.1
+18	nsp2	806	2719	produced by both pp1a and pp1ab	3	Prot	YP_009742609.1
+19	nsp3	2720	8554	former nsp1%3B conserved domains are: N-terminal acidic (Ac)%2C predicted phosphoesterase%2C papain-like proteinase%2C Y-domain%2C transmembrane domain 1 (TM1)%2C adenosine diphosphate-ribose 1''-phosphatase (ADRP)%3B produced by both pp1a and pp1ab	3	Prot	YP_009742610.1
+20	nsp4	8555	10054	nsp4B_TM%3B contains transmembrane domain 2 (TM2)%3B produced by both pp1a and pp1ab	3	Prot	YP_009742611.1
+21	3C-like proteinase	10055	10972	nsp5A_3CLpro and nsp5B_3CLpro%3B main proteinase (Mpro)%3B mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al.%2C 2003)%3B produced by both pp1a and pp1ab	3	Prot	YP_009742612.1
+22	nsp6	10973	11842	nsp6_TM%3B putative transmembrane domain%3B produced by both pp1a and pp1ab	3	Prot	YP_009742613.1
+23	nsp7	11843	12091	produced by both pp1a and pp1ab	3	Prot	YP_009742614.1
+24	nsp8	12092	12685	produced by both pp1a and pp1ab	3	Prot	YP_009742615.1
+25	nsp9	12686	13024	ssRNA-binding protein%3B produced by both pp1a and pp1ab	3	Prot	YP_009742616.1
+26	nsp10	13025	13441	nsp10_CysHis%3B formerly known as growth-factor-like protein (GFL)%3B produced by both pp1a and pp1ab	3	Prot	YP_009742617.1
+27	nsp11	13442	13480	produced by pp1a only	3	Prot	YP_009725312.1

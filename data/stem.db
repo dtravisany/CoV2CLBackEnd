@@ -1,0 +1,5 @@
+1	13476	13503	GeneID:43740578	Coronavirus frameshifting stimulation element stem-loop 1	COORDINATES: profile:Rfam-release-14.1:RF00507%2CInfernal:1.1.2	1	stem_loop	\N
+2	13488	13542	GeneID:43740578	Coronavirus frameshifting stimulation element stem-loop 2	COORDINATES: profile:Rfam-release-14.1:RF00507%2CInfernal:1.1.2	1	stem_loop	\N
+3	29609	29644	GeneID:43740576	Coronavirus 3' UTR pseudoknot stem-loop 1	COORDINATES: profile::Rfam-release-14.1:RF00165%2CInfernal:1.1.2	11	stem_loop	\N
+4	29629	29657	GeneID:43740576	Coronavirus 3' UTR pseudoknot stem-loop 2	COORDINATES: profile::Rfam-release-14.1:RF00165%2CInfernal:1.1.2	11	stem_loop	\N
+5	29728	29768	\N	Coronavirus 3' stem-loop II-like motif (s2m)	COORDINATES: profile:Rfam-release-14.1:RF00164%2CInfernal:1.1.2	\N	stem_loop	basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair%2C but the homologous positions form a highly conserved C:G basepair in other viruses%2C including SARS (NC_004718.3)

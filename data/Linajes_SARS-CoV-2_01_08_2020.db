@@ -1,0 +1,174 @@
+1	A	\N	La raíz de la pandemia se encuentra dentro del linaje A. Muchas secuencias originarias de China y muchas exportaciones mundiales;  representados en este linaje estan incluidos el sudeste asiático, Japón, Corea del Sur, Australia, Estados Unidos y Europa.
+2	A.1	1	Linaje Norteamericano
+3	A.1.1	2	Linaje de Islandia
+4	A.1.3	2	Linaje Australiano
+5	A.2	1	Linaje Español
+6	A.3	1	Linaje de EE. UU. y Australia
+7	A.4	1	Linaje circulante en EE. UU.
+8	A.5	1	Un linaje con mucha representación de países de habla hispana. Un linaje mayoritariamente español / sudamericano, bajo bootstrap (16) pero históricamente ha tenido un gran apoyo.
+9	A.6	1	Linaje de Tailandia
+10	A.7	1	Linaje Indio, anteriormente A.p7. Algunos en A.p7, incluidas las secuencias de Arabia Saudita y Turca  se reasignaron a  linaje A (BS = 100)
+11	A.8	1	Linaje Indio con buen apoyo y, a pesar de los pequeños números, muestra diversidad interna, anteriormente A.p7 (BS = 83)
+12	A.9	1	Linaje  Indio
+13	B	\N	La base de este linaje también se encuentra en China, con muchas exportaciones globales, dos SNP  definen este linaje T8782C y C28144T
+14	B.1	13	Un gran linaje europeo que corresponde al brote italiano.
+15	B.1.2	14	Linaje de EE. UU., Dividido un poco, refinado
+16	B.1.3	14	Linaje de EE. UU.
+17	B.1.5	14	Linaje europeo / muchas secuencias en español hacia el extremo basal del subárbol y exportaciones a todo el mundo. Bajo soporte en el nodo principal ahora, potencialmente como resultado de  <a href="https://es.wikipedia.org/wiki/Homoplasia">homoplasias</a>
+18	B.1.5.2	14	Linaje presente en Países Bajos
+19	B.1.5.3	14	Linaje Inglés (ahora contiene una secuencia australiana y sueca)
+20	*B.1.5.4	14	Reasignado a B.1.5 como B.1.5 ahora parece ser europeo / español, por lo que B.1.5.4 no es una nueva introducción
+21	B.1.5.5	14	Linaje Inglés
+22	B.1.5.6	14	Linaje Escocés
+23	B.1.5.8	14	Linaje de EE. UU.
+24	B.1.5.9	14	Linaje Galés
+25	B.1.5.10	14	Linaje del Reino Unido
+26	B.1.6	14	Linaje Belga
+27	B.1.8	14	Países Bajos/ Europa
+28	B.1.8.1	14	Linaje Sudafricano
+29	B.1.9	14	Países Bajos / Bélgica / Turquía / RDC
+30	B.1.11	14	Linaje del Reino Unido pero bajo soporte y división, podado bastante, es posible que se elimine en una proxima actualización (BS = 31)
+31	B.1.12	14	BeNeLux
+32	B.1.13	14	Linaje del Reino Unido
+33	*B.1.p16	14	Linaje de Bélgica, reasignado a B.1
+34	B.1.19	14	Linaje de EE. UU.
+35	B.1.21	14	Washington (EE. UU.)
+36	B.1.22	14	Linaje holandés, ahora con algunas secuencias europeas y algunas secuencias australianas (BS = 100)
+37	B.1.23	14	Linaje de Australia
+38	B.1.25	14	Linaje de Australia
+39	B.1.26	14	Linaje de Nueva Zelanda / EE. UU.
+40	B.1.29	14	Linaje de EE. UU.
+41	B.1.30	14	Linaje de Inglaterra
+42	B.1.31	14	Linaje de Australia
+43	B.1.32	14	Linaje Sueco
+44	B.1.34	14	Linaje de Inglaterra
+45	B.1.35	14	Linaje de Reino Unido
+46	B.1.36	14	Linaje global- Turquía, Arabia Saudita, India, Reino Unido
+47	B.1.37	14	Linaje de EE. UU.
+48	B.1.38	14	Linaje de EE. UU.
+49	B.1.39	14	Linaje Danés
+50	B.1.40	14	Linaje Escocés
+51	B.1.41	14	Linaje de EE.UU.
+52	B.1.42	14	Linaje Suecia / Dinamarca
+53	B.1.43	14	Linaje de EE. UU.
+54	B.1.44	14	Linaje de Gales
+55	B.1.66	14	Linaje de Inglaterra
+56	B.1.67	14	Linaje de Gales
+57	B.1.68	14	Linaje de EE. UU.
+58	B.1.69	14	Linaje Escocés
+59	B.1.70	14	Linaje Escocés
+60	B.1.71	14	Linaje de Reino Unido
+61	B.1.72	14	Linaje de Reino Unido
+62	B.1.74	14	Linaje español, incluye secuencias de Portugal.
+63	B.1.75	14	Linaje de Inglaterra
+64	B.1.76	14	Linaje de Inglaterra
+65	B.1.77	14	Linaje de Reino Unido
+66	B.1.78	14	Linaje de Países Bajos
+67	B.1.79	14	Linaje de Inglaterra
+68	B.1.80	14	Linaje indio, con un par de secuencias de Luxemburgo
+69	B.1.81	14	Linaje de Inglaterra
+70	B.1.82	14	Linaje de Inglaterra
+71	B.1.83	14	Linaje de Bélgica
+72	B.1.84	14	Linaje de la República Democrática del Congo
+73	B.1.85	14	Linaje de EE. UU.
+74	B.1.86	14	Linaje de Inglaterra
+75	B.1.87	14	Linaje indio, con algunas secuencias chinas y Sudáfricanas
+76	B.1.88	14	Linaje del Reino Unido, anteriormente algunas de estas secuencias se habían asignado B.1.11, pero este clado se ha dividido en el árbol. Ahora reasignado un nuevo linaje.
+77	B.1.89	14	Linaje Escocés
+78	B.1.90	14	Linaje Escocés, anteriormente parte de B.1.11, pero ahora reasignado
+79	B.1.91	14	Linaje Portugués
+80	B.1.93	14	Linaje del Reino Unido, principalmente secuencias escocesas
+81	B.1.94	14	Linaje de Luxemburgo
+82	B.1.95	14	Linaje Indio
+83	B.1.96	14	Linaje de Países Bajos
+84	B.1.97	14	Linaje de Inglaterra
+85	B.1.98	14	Linaje de Reino Unido
+86	B.1.99	14	Anteriormente parte de B.1.5, linaje Inglés
+87	B.1.100	14	Anteriormente B.1.5.5, linaje escocés
+88	B.1.101	14	Linaje Escocés
+89	B.1.102	14	Linaje islandés, previamente asignado B.1.5.1
+90	B.1.103	14	Linaje de EE. UU.
+91	B.1.104	14	Linaje de Inglaterra
+92	B.1.105	14	Linaje de Inglaterra
+93	B.1.106	14	Linaje de Sudáfrica
+94	B.1.107	14	Linaje Danés
+95	B.1.108	14	Linaje de EE. UU.
+96	B.1.109	14	Linaje de Luxemburgo
+97	B.1.110	14	Linaje chileno / Estadounidense
+98	B.1.111	14	Linaje Sudamericano
+99	B.1.112	14	Linaje de EE. UU.
+100	B.1.113	14	Linaje Indio
+101	B.1.114	14	Linaje Canadiense
+102	B.1.115	14	Linaje de Israel
+103	B.1.116	14	Linaje de EE. UU.
+104	B.1.117	14	Linaje de Reino Unido
+105	B.1.118	14	Linaje Danés
+106	B.1.119	14	Linaje de EE. UU.
+107	B.1.120	14	Linaje Galés
+108	B.1.121	14	Linaje Australiano
+109	B.1.122	14	Linaje Galés
+110	B.1.123	14	Linaje de Washington, anteriormente parte de B.1.21, pero dividido en esta filogenia
+111	B.1.124	14	Linaje de EE. UU.
+112	B.1.125	14	Linaje de Sudáfrica
+113	B.1.1	14	Linaje europeo que se ha asignado debido al alto soporte y 3 SNP claros `G28881A`,` G28882A`, `G28883C`
+114	B.1.1.1	14	Reino Unido / Europa (BS = 13)
+115	B.1.1.2	14	Linaje galés (BS = 59)
+116	B.1.1.3	14	Linaje inglés (BS = 92)
+117	B.1.1.4	14	Linaje del Reino Unido (BS = 76)
+118	B.1.1.5	14	Islandia / Bélgica / Reino Unido (BS = 85)
+119	B.1.1.6	14	Linaje austriaco (BS = 13)
+120	B.1.1.7	14	Reino Unido / Australia / Islandia (BS = 100)
+121	B.1.1.8	14	Anteriormente linaje Reino Unido / Estados Unidos / Australia. Con nuevos datos, ahora refinados para incluir solo las secuencias indias. Linaje indio (BS = 62)
+122	*B.1.1.9	14	Reasignado B.1.1, dividido en tres la primera semana de Agosto 2020, linaje inestable
+123	B.1.1.10	14	Anteriormente Reino Unido / Islandia (BS = 13), mucha diversidad en este linaje, ahora tiene una secuencia turca.
+124	*B.1.1.p11	14	Reasignado B.1.1, anteriormente Portugal / Gales / Inglaterra / Ecuador (BS = 13 esta semana)
+125	B.1.1.12	14	Linaje escocés (BS = 14)
+126	B.1.1.13	14	Linaje del Reino Unido (BS = 73)
+127	B.1.1.14	14	Linaje escocés (BS = 79)
+128	B.1.1.15	14	Linaje de Luxemburgo (BS = 16, pero nodos internos todos 100)
+129	B.1.1.16	14	Linaje de Gales (BS = 96)
+130	B.1.1.17	14	Linaje de Islandia (BS = 100)
+131	B.1.1.19	14	Linaje australiano (BS = 24)
+132	B.1.1.20	14	Linaje escocés (BS = 74)
+133	B.1.1.21	14	Linaje australiano (BS = 100)
+134	B.1.1.22	14	Linaje Sudafricano (BS = 35)
+135	B.1.1.23	14	Linaje de Bangladesh (BS = 13)
+136	B.1.1.24	14	Linaje portugués (BS = 87)
+137	B.1.1.25	14	Bangladesh / linaje australiano (BS = 13)
+138	B.1.1.26	14	Linaje  de EE. UU. (BS = 79)
+139	B.1.1.27	14	Linaje de Omán (BS = 100)
+140	B.1.1.28	14	Linaje Fujian / Brasil (BS = 18, pero datos epi distintos)
+141	B.1.1.29	14	Linaje de Gales (BS = 100)
+142	B.1.1.30	14	Linaje de Gales (BS = 91)
+143	B.1.1.31	14	Linaje de Países Bajos (BS = 35)
+144	B.1.1.32	14	Linaje indio (BS = 56)
+145	B.1.1.33	14	Principalmente linaje sudamericano, muchas secuencias de Brasil representadas (BS = 71)
+146	B.2	13	Un linaje grande que ahora incluye B.7 como sublínea dentro de él. Diversidad dentro de Hong Kong y Europa (BS = 20)
+147	B.2.1	146	Gran linaje con representación del Reino Unido, Europa, Jordania, Australia, Estados Unidos, India, Ghana (BS = 21)
+148	B.2.2	146	Reino Unido / Estados Unidos / Australia (BS = 30)
+149	B.2.4	146	Inglaterra / Australia / Nueva Zelanda linaje (BS = 94) Australia (BS = 30)
+150	*B.2.5	146	Reasignado a B.2 primera semana de Agosto 2020, soporte consistentemente bajo con metadatos similares ahora presentes en el linaje principal.
+151	B.2.6	146	Linaje del Reino Unido (BS = 100)
+152	B.2.7	146	Linaje de Islandia (BS = 71)
+153	B.2.8	146	Linaje de Hong Kong reasignado de B.7 (BS = 75)
+154	B.2.9	146	Linaje del Reino Unido (BS = 85)
+155	B.2.10	146	Linaje coreano (BS = 57)
+156	B.3	13	Un linaje europeo (BS = 21)
+157	B.4	13	Linaje de Irán, muchas secuencias en este linaje están asociadas con historias de viajes de Irán (BS = 21)
+158	B.5	13	Linaje japonés (BS = 75)
+159	B.6	13	Todo un linaje global, mucha diversidad india y singapurense. Representación del sudeste asiático / Norteamérica / Europa / Israel / Gambia / Timor-leste (BS = 21)
+160	*B.7	13	Linaje de Hong Kong reasignado a B.2.8 (BS = 75)
+161	B.9	13	Linaje de Australia / Inglaterra (BS = 100)
+162	B.10	13	Irlanda del Norte / Inglaterra / Escocia (BS = 94)
+163	B.11	13	Linaje holandés (BS = 83)
+164	B.12	13	Linaje de Japón (BS = 100)
+165	B.13	13	Linaje de EE. UU. (WI) (BS = 65)
+166	B.14	13	Linaje de EE. UU. (CA) (BS = 100)
+167	B.15	13	Linaje del Reino Unido (BS = 100)
+168	B.16	13	Linaje escocés (BS = 95)
+169	B.17	13	Linaje de EE. UU. (BS=80)
+170	B.18	13	Linaje europeo (Islandia e Inglaterra) (BS = 95)
+171	B.19	13	Linaje de EE. UU. (BS=69)
+172	B.20	13	Linaje de EE. UU. (BS=77)
+173	B.21	13	Linaje del Reino Unido (BS = 100)
+174	B.22	13	Linaje de Dinamarca (BS = 100)
